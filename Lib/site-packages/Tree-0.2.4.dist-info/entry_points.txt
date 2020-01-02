@@ -1,0 +1,3 @@
+[console_scripts]
+tree-cli = Tree.cli:create_tree
+

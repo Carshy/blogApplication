@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:\\Users\\Musoko\\Desktop\\Projects\\blogsapp\\Scripts\\python.exe",
+  "editor.formatOnSave": false,
+  "python.linting.pylintArgs": ["--load-plugins", "pylint-flask"]
+}
